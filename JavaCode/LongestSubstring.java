@@ -1,7 +1,8 @@
 package main;
 
 /*
- *  设i,j,求得[i,j]的长度
+ * 求一个字符串中无重复字母的最长的Substring 
+ * 设i,j,求得[i,j]的长度
  */
 import java.util.HashSet;
 import java.util.Set;
