@@ -3,4 +3,5 @@
 
 | Squence | Problem  | Level  | Language  |
 |:-------:|:--------:|:------:|:---------:|
-|0|[Two Sum](https://github.com/Makichen/LeetCodeProblems/blob/master/TwoSum.java)|easy|Java|
+|1|[Two Sum](https://github.com/Makichen/LeetCodeProblems/blob/master/JavaCode/TwoSum.java)|easy|Java|
+|2|[Add Two Numbers](https://github.com/Makichen/LeetCodeProblems/blob/master/JavaCode/AddTwoNumbers.java)|medium|Java|
